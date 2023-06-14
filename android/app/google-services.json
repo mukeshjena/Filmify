@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80775941101",
+    "project_id": "filmify-f217a",
+    "storage_bucket": "filmify-f217a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80775941101:android:05e9d4a1215feb19dd35e4",
+        "android_client_info": {
+          "package_name": "ms.learn.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80775941101-l3ka90psohujajclqtco66tl8ojdmt8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ms.learn.movie_app",
+            "certificate_hash": "c8329cbadab6c1c5dd781507b1d1ca7210d21f0e"
+          }
+        },
+        {
+          "client_id": "80775941101-h2dtprkfspc7k6okmlqk4pm01p5vi7rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKiZnnsG_93av4-it3UmKoOKntrlA2nwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80775941101-h2dtprkfspc7k6okmlqk4pm01p5vi7rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
